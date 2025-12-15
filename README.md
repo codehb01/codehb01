@@ -1,3 +1,4 @@
+[![An image of @codehb01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codehb01)](https://holopin.io/@codehb01)
 <h1 align="center">Hey 👋Myself Harshal Bhosale</h1>
 
 ###
