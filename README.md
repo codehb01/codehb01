@@ -26,10 +26,8 @@ I enjoy building scalable applications, experimenting with modern web technologi
 - DBIT ACM Teknack 2025 — People’s Choice Award (Top 3 / 30+ Teams)
 - 3× National-Level Hackathon Finalist
 
-
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/harshal-bhosale-965b74283/  
-Email: harshalbhosale380@gmail.com
-Portfolio: harshalbhosale.vercel.app
-
+Email: harshalbhosale380@gmail.com  
+Portfolio: https://harshalbhosale.vercel.app
