@@ -37,7 +37,7 @@ Currently working as a Full Stack Developer Intern at Debales.ai, contributing t
 
 ### Connect
 <p>
-  <a href="https://harshalbhosale.vercel.app">Portfolio</a> •
+  <a href="https://harshalbhosale.me">Portfolio</a> •
   <a href="https://linkedin.com/in/devwithharshal">LinkedIn</a> •
   <a href="mailto:harshalbhosale380@gmail.com">Email</a>
 </p>
