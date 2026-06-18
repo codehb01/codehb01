@@ -1,15 +1,15 @@
 [![An image of @codehb01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codehb01)](https://holopin.io/@codehb01)
 
 ### About Me
-
 **Full-Stack Developer • IT Engineering Student**
 
 Building web applications through internships, client work, open-source contributions, and hackathons.
 
-Currently working as a Full Stack Developer Intern at Debales.ai and gaining hands-on experience building software solutions for real users and clients.
+Currently working as a Full Stack Developer Intern at Debales.ai, contributing to software solutions used by real users and clients.
+
+---
 
 ### Tech Stack
-
 | Category      | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18"/> JavaScript    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18"/> TypeScript    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18"/> Java    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18"/> Python |
@@ -18,24 +18,27 @@ Currently working as a Full Stack Developer Intern at Debales.ai and gaining han
 | **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="18"/> MongoDB    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="18"/> PostgreSQL    🔷 Prisma                                                                                                                                                                                                                       |
 | **Tools**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18"/> Git    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="18"/> Docker    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="18"/> Postman                                                                                                                                                        |
 
-### Achievements
+---
 
+### Achievements
 * DBIT ACM Teknack 2025 — People's Choice Award
 * 3× National-Level Hackathon Finalist
 * Hacktoberfest Contributor
 
-### GitHub Stats
+---
 
+### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=codehb01&theme=dark&hide_border=true&show_icons=true" height="165"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=codehb01&theme=dark&hide_border=true&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=codehb01&theme=dark&hide_border=true&show_icons=true" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=codehb01&theme=dark&hide_border=true&layout=compact" height="165" />
 </p>
 
+---
+
 ### Connect
-
-Portfolio: https://harshalbhosale.vercel.app
-
-LinkedIn: https://linkedin.com/in/devwithharshal
-
-Email: [harshalbhosale380@gmail.com](mailto:harshalbhosale380@gmail.com)
+<p>
+  <a href="https://harshalbhosale.vercel.app">Portfolio</a> •
+  <a href="https://linkedin.com/in/devwithharshal">LinkedIn</a> •
+  <a href="mailto:harshalbhosale380@gmail.com">Email</a>
+</p>
 
