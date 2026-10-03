@@ -5,7 +5,7 @@
 
 Building web applications through internships, client work, open-source contributions, and hackathons.
 
-Currently working as a Full Stack Developer Intern at Debales.ai, contributing to software solutions used by real users and clients.
+Currently working as a Full Stack Developer Intern at Debales.ai : https://github.com/harshal-debales, contributing to software solutions used by real users and clients.
 
 ---
 
